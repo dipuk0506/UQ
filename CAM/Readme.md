@@ -6,3 +6,6 @@ Abstract: Multitask learning is a popular approach to training high-performing n
 Fig. Models with both traditional training and training with background class are applied to a bird image (a) in the STL-10 dataset. Subplots (b) and (c) show class activation mapping of the bird class on the final convolutional layer respectively for traditional and for training with background situations. Subplots (d) and (e) show class activation mapping with the image. Subplots (f) and (g) show deep feature factorization results on the image for the traditional and proposed method respectively.
 
 ### Link to paper: https://arxiv.org/abs/2305.03238
+
+
+#### We received new state-of-the-art performance in the STL-10 dataset on May 2023. The link to the Kaggle notebook with execution details is as follows: https://www.kaggle.com/code/dipuk0506/stl-10-with-background/notebook
