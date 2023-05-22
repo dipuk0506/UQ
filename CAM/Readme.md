@@ -8,11 +8,11 @@ Fig. Models with both traditional training and training with background class ar
 ### Link to paper: https://arxiv.org/abs/2305.03238
 
 
-#### We received new state-of-the-art performance in the STL-10, CIFAR-10, Oxford-102, Caltech-101, CINIC-10, SVHN datasets on May 2023. The link to the Kaggle notebook with execution details is as follows: 
+#### We received new state-of-the-art performance in the STL-10, CIFAR-10, Oxford-102, Caltech-101, CINIC-10 datasets on May 2023. The link to the Kaggle notebook with execution details is as follows: 
 
 1. STL-10: https://www.kaggle.com/code/dipuk0506/stl-10-with-background/notebook
 2. CIFAR-10: https://www.kaggle.com/code/dipuk0506/cifar10-with-background-spinalnet
 3. Oxford-102: https://www.kaggle.com/code/dipuk0506/oxford102-with-background
 4. Caltech-101: https://www.kaggle.com/code/dipuk0506/caltech101-transformer-background
 5. CINIC-10: https://www.kaggle.com/code/sadiakhanam7/cinic-10-transformer-background
-6. SVHN: https://www.kaggle.com/code/dipuk0506/svhn-transformer-background-spinalnet
+
