@@ -10,7 +10,7 @@ Fig. Models with both traditional training and training with background class ar
 
 #### According to our literature search, we received new state-of-the-art performance in the STL-10, CIFAR-10, CIFAR-100, Caltech-101, CINIC-10 datasets on May 2023. The link to the Kaggle notebook with execution details is as follows: 
 
-### We claimed Oxford-102 SOTA in v2 of the paper. After more search, we observed that we got the second-best performance in the Oxford-102 dataset.  
+##### We claimed Oxford-102 SOTA in v2 of the paper. After more search, we observed that we got the second-best performance in the Oxford-102 dataset.  
 
 1. STL-10: https://www.kaggle.com/code/dipuk0506/stl-10-with-background/notebook
 2. CIFAR-10: https://www.kaggle.com/code/dipuk0506/cifar10-with-background-spinalnet
