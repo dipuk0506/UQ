@@ -14,7 +14,7 @@ Fig. Models with both traditional training and training with background class ar
 
 1. STL-10: https://www.kaggle.com/code/dipuk0506/stl-10-with-background/notebook
 2. CIFAR-10: https://www.kaggle.com/code/dipuk0506/cifar10-with-background-spinalnet
-3. CIFAR-100: https://www.kaggle.com/code/sadiakhanam7/cifr100-transformer-background-spinalnet
+3. CIFAR-100: https://www.kaggle.com/code/sadiakhanam7/cifar100-transformer-background-spinalnet
 4. Oxford-102: https://www.kaggle.com/code/dipuk0506/oxford102-with-background
 5. Caltech-101: https://www.kaggle.com/code/dipuk0506/caltech101-transformer-background
 6. CINIC-10: https://www.kaggle.com/code/sadiakhanam7/cinic-10-transformer-background
