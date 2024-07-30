@@ -19,3 +19,8 @@ Fig. Models with both traditional training and training with background class ar
 5. Caltech-101: https://www.kaggle.com/code/dipuk0506/caltech101-transformer-background
 6. CINIC-10: https://www.kaggle.com/code/sadiakhanam7/cinic-10-transformer-background
 
+The Scripts for Generating Background Data:
+CIFAR-100: https://www.kaggle.com/code/dipuk0506/background-dataset-for-cifar-100/
+Common Dataset for Color Images: https://www.kaggle.com/code/dipuk0506/background-image-data
+
+
