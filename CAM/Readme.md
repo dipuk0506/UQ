@@ -22,6 +22,7 @@ Fig. Models with both traditional training and training with background class ar
 The Scripts for Generating Background Data:
 
 CIFAR-100: https://www.kaggle.com/code/dipuk0506/background-dataset-for-cifar-100/
+
 Common Dataset for Color Images: https://www.kaggle.com/code/dipuk0506/background-image-data
 
 
