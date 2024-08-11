@@ -25,4 +25,10 @@ CIFAR-100: https://www.kaggle.com/code/dipuk0506/background-dataset-for-cifar-10
 
 Common Dataset for Color Images: https://www.kaggle.com/code/dipuk0506/background-image-data
 
+Scripts on CIFAR-10C Dataset:
+1. https://www.kaggle.com/code/dipuk0506/vit-on-cifar10c
+2. https://www.kaggle.com/code/dipuk0506/cifar10c-vit-with-background
+3. https://www.kaggle.com/code/dipuk0506/cifar10c-with-spinalnet
+4. https://www.kaggle.com/code/dipuk0506/cifar10c-with-background-spinalnet
+
 
