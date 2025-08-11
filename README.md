@@ -3,7 +3,7 @@
 #### This repository contains several scripts of Uncertainty-Aware Neural Network Trainining. We apply codes to several datasets and upload codes in Jupyter Notebooks with execution details.
 
 ### Folder 'CAM' conains scripts of the following paper: 
-Kabir, H.M., 2023. Reduction of Class Activation Uncertainty with Background Information. arXiv preprint arXiv:2305.03238.
+Kabir, HM Dipu. "Reduction of class activation uncertainty with background information." IEEE Transactions on Artificial Intelligence (2025).
 
 ### Folder 'Direct Intervals' conains scripts of the following paper: 
 Kabir, H.D., Khosravi, A., Kavousi-Fard, A., Nahavandi, S. and Srinivasan, D., 2021. Optimal uncertainty-guided neural network training. Applied Soft Computing, 99, p.106878.
